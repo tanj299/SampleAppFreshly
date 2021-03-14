@@ -1,10 +1,15 @@
-# Ruby on Rails Tutorial sample application
+# Ruby on Rails Tutorial
+## Jayson Tan
+## Freshly Assessment
+## Sample App
 
-This is the sample application for
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](https://www.railstutorial.org/)
-(6th Edition)
-by [Michael Hartl](https://www.michaelhartl.com/).
+This is the first application for the
+[*Ruby on Rails Tutorial*](https://www.railstutorial.org/)
+by [Michael Hartl](https://www.michaelhartl.com/). Hello, world!
+
+Deployed to Heroku
+
+**URL:** https://afternoon-bayou-91953.herokuapp.com/
 
 ## License
 
